@@ -1,7 +1,7 @@
 package Oct.Ex_16102024;
 //Take a user input - Name, Age and Salary and print them in the end.
 import java.util.Scanner;
-public class Lab016 {
+public class Lab077 {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter name");

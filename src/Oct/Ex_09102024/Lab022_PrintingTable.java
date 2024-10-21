@@ -1,6 +1,6 @@
 package Oct.Ex_09102024;
 
-public class PrintingTable {
+public class Lab022_PrintingTable {
 public static void main(String[]args){
     int a=15;
     System.out.printf("%d*%d=%d",a,1,a);

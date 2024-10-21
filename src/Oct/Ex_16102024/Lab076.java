@@ -3,7 +3,7 @@ package Oct.Ex_16102024;
 import java.util.Scanner;
 
 //Take a user input 2 numbers from the arguments and calculate the maximum in between with ternary operator.
-public class Lab007 {
+public class Lab076 {
     public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1st number");

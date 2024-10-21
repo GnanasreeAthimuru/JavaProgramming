@@ -1,5 +1,5 @@
 package Oct.Ex_16102024;
 
-public class Lab017 {
+public class Lab078 {
 
 }
